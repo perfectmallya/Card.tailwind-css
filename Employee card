@@ -1,0 +1,33 @@
+<bodyclass="bg-gray-600 flex justify-center items-center h-screen">
+ <divclass="w-2/3 flex flex-col break-words bg-white shadow-lg rounded-lg
+ overflow-hidden">
+ <divclass="text-gray-700 bg-gray-200 text-lg px-6 py-4 mb-0">
+ Employee Card </div>
+ <divclass="w-full px-6 py-4 flex justify-between items-center border-t
+ border-gray-200">
+ <divclass="bg-orange-600 text-xs uppercase px-2 py-1 rounded-full
+ border border-gray-200 text-gray-200 font-bold">
+Reviews</div>
+ <divclass="text-sm">May 14, 1988</div>
+ </div>
+ <divclass="w-full px-6 py-4 justify-between border-t border-gray-200">
+ <divclass="flex-1">
+ <pclass="border rounded-lg p-4 bg-gray-200">
+ A short comment about employee.</p>
+ </div>
+ </div>
+ <divclass="rounded-b px-6 py-4 bg-gray-200">
+ <divclass="uppercase text-xs text-gray-600 font-bold">
+ Employee</div>
+ <divclass="flex itemscenter pt3">
+ <divclass="bgblue700 w12 h12 roundedfull uppercase
+ fontbold flex itemscenter justifycenter textsm
+ textwhite">
+ VG</div>
+ <divclass="ml4"><pclass="fontbold">Victor Gonzalez</p>
+ <pclass="textsm textgray700 mt1">Instructor</p>
+ </div>
+ </div>
+ </div>
+ </div>
+</body>
